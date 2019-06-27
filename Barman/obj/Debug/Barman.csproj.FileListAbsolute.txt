@@ -1,0 +1,12 @@
+C:\Users\Kilian\source\repos\Barman\Barman\bin\Debug\Barman.exe.config
+C:\Users\Kilian\source\repos\Barman\Barman\bin\Debug\Barman.exe
+C:\Users\Kilian\source\repos\Barman\Barman\bin\Debug\Barman.pdb
+C:\Users\Kilian\source\repos\Barman\Barman\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Kilian\source\repos\Barman\Barman\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Kilian\source\repos\Barman\Barman\obj\Debug\Barman.Main.resources
+C:\Users\Kilian\source\repos\Barman\Barman\obj\Debug\Barman.Properties.Resources.resources
+C:\Users\Kilian\source\repos\Barman\Barman\obj\Debug\Barman.csproj.GenerateResource.cache
+C:\Users\Kilian\source\repos\Barman\Barman\obj\Debug\Barman.csproj.CoreCompileInputs.cache
+C:\Users\Kilian\source\repos\Barman\Barman\obj\Debug\Barman.csproj.CopyComplete
+C:\Users\Kilian\source\repos\Barman\Barman\obj\Debug\Barman.exe
+C:\Users\Kilian\source\repos\Barman\Barman\obj\Debug\Barman.pdb
